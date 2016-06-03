@@ -4,7 +4,7 @@
  * @copyright (c) 03.06.2016 16:31
  */
 
-namespace skobka\common\interfaces;
+namespace skobka\appDi\interfaces;
 
 use Interop\Container\ContainerInterface;
 
