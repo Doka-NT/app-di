@@ -1,0 +1,20 @@
+{
+  "name": "skobka/app-di",
+  "description": "Application micro-framework using php-di/php-di package",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Soshnikov Artem",
+      "email": "213036@skobka.com"
+    }
+  ],
+  "require": {
+    "php-di/php-di": "5.3.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "skobka\\appDi\\": "src"
+    }
+  }
+}
