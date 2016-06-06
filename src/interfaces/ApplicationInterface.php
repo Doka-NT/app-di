@@ -8,7 +8,7 @@ namespace skobka\appDi\interfaces;
 
 /**
  * Interface ApplicationInterface
- * @package uroweb\common\interfaces
+ * @package skobka\common\interfaces
  */
 interface ApplicationInterface
 {

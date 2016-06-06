@@ -10,7 +10,7 @@ use Interop\Container\ContainerInterface;
 
 /**
  * Class ContainerisedInterface
- * @package uroweb\common\interfaces
+ * @package skobka\common\interfaces
  */
 interface ContainerisedInterface
 {

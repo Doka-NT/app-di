@@ -11,7 +11,7 @@ use skobka\appDi\configuration\interfaces\ContainerDefinitionInterface;
 
 /**
  * Class BaseDefinition
- * @package uroweb\common\abstraction\configuration
+ * @package skobka\common\abstraction\configuration
  */
 class BaseConfiguration implements ConfigurationInterface, ContainerDefinitionInterface
 {

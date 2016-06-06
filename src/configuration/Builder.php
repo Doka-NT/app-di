@@ -11,7 +11,7 @@ use skobka\appDi\configuration\interfaces\ConfigurationInterface;
 
 /**
  * Class Builder
- * @package uroweb\common\configuration
+ * @package skobka\common\configuration
  */
 class Builder
 {

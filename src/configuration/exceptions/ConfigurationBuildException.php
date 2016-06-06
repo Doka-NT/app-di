@@ -8,7 +8,7 @@ namespace skobka\appDi\configuration\exceptions;
 
 /**
  * Class ConfigurationBuildException
- * @package uroweb\common\configuration\exceptions
+ * @package skobka\common\configuration\exceptions
  */
 class ConfigurationBuildException extends \Exception
 {

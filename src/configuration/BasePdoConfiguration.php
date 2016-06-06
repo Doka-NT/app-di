@@ -10,7 +10,7 @@ use skobka\appDi\configuration\interfaces\ConfigurationInterface;
 
 /**
  * Class BasePdoConfiguration
- * @package uroweb\common\abstraction\configuration
+ * @package skobka\common\abstraction\configuration
  */
 class BasePdoConfiguration implements ConfigurationInterface
 {

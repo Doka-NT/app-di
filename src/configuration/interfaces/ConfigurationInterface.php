@@ -8,7 +8,7 @@ namespace skobka\appDi\configuration\interfaces;
 
 /**
  * Interface ConfigurationInterface
- * @package uroweb\common\configuration
+ * @package skobka\common\configuration
  */
 interface ConfigurationInterface
 {
