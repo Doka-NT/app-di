@@ -49,9 +49,9 @@ return [
 
 ### parameters.yml & parameters.yml.dist
 ```yaml
-class: \skobka\common\configuration\BaseConfiguration
+class: \skobka\appDi\configuration\BaseConfiguration
 pdo:
-  class: \skobka\common\configuration\BasePdoConfiguration
+  class: \skobka\appDi\configuration\BasePdoConfiguration
   dsn: mysql:host=localhost;dbname=test
   user: testUser
   password: testPassword
