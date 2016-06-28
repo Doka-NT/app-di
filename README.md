@@ -1,7 +1,7 @@
 #Install
 
 ```bash
-php composer.phar require "skobka/app-di: *"
+composer create-project -s dev skobka/app-di-app my_app
 ```
 
 #Usage
